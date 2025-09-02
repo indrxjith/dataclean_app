@@ -1,0 +1,4 @@
+Dataset,Rows Before,Rows After,Dup Rows Saved,Missing Before,Missing After,Clean Path,Dup Path
+customers,10000,10000,0,0,0,outputs/cleaned/customers_Clean_data.csv,
+cafe,10000,4550,0,6826,0,outputs/cleaned/cafe_Clean_data.csv,
+retail,12575,7579,0,7229,0,outputs/cleaned/retail_Clean_data.csv,
