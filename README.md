@@ -132,8 +132,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Indrajith**
 - 🌐 **Live App**: [CleanIt](https://cleanitt.streamlit.app/)
 - 💻 **GitHub**: [@indrxjith](https://github.com/indrxjith)
-- 📫 **Contact**: [Your Email]
-
+- 📫 **Contact**: [indrajithwrites@gmail.com]
 ## 🙏 Acknowledgments
 
 - **Streamlit Team** - For the amazing framework
